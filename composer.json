@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mercadopago/dx-php": "^2.1",
+        "mpdf/mpdf": "^8.0"
+    }
+}
